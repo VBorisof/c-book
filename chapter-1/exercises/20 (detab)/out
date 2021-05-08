@@ -1,0 +1,7 @@
+    < TAB
+    < 2 SPACE TAB
+    < 3 SPACE TAB
+        < 2 SPACE TAB TAB
+        < 3 SPACE 2 SPACE TAB
+        < 3 SPACE   2   SPACE   TAB WITH    TABS
+CONTROL ^ ^ ^       ^   ^       ^   ^       ^           

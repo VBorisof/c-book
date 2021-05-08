@@ -1,0 +1,27 @@
+/* This is some comment */
+
+/* And another */
+
+int main() {
+	"/*This is not a comment*/"
+	(")
+
+	/* Should be left because unterminated string... */
+
+	"
+
+	/*
+
+
+/    *   SUPER  * /
+
+     MEGA
+
+        COMMENT
+
+
+      Multiline too
+
+
+	*/
+}

@@ -1,0 +1,16 @@
+stdin:  7:15: error: Unmatched `)`.
+stdin: 14: 6: error: Unmatched `\`.
+stdin: 17: 7: error: Unmatched `\`.
+stdin: 19:10: error: Unmatched `\`.
+stdin: 25:16: error: Unmatched `\`.
+stdin: 33: 1: error: Unmatched `}`.
+stdin: 33: 2: error: Unmatched `}`.
+stdin: 33: 4: error: Unmatched `*/`.
+stdin: 38: 1: error: Unmatched `*/`.
+stdin: 39: 1: error: Unmatched `*/`.
+stdin: 40: 1: error: Unmatched `*/`.
+stdin: 40: 3: error: Unmatched `*/`.
+stdin: 40: 5: error: Unmatched `*/`.
+stdin: 40: 7: error: Unmatched `*/`.
+stdin: 33: 3: error: Unmatched `{`.
+stdin:  8:13: error: Unmatched `(`.

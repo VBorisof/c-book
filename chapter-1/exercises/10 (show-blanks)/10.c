@@ -1,3 +1,7 @@
+/* Ex.1-10
+ * Write a Program to copy its input to its output,
+ * -------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {

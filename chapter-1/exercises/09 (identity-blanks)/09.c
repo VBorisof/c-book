@@ -1,3 +1,8 @@
+/* Ex.1-9:
+ * Write a program to copy it's input to it's output, 
+ * replacing each string of one or more blanks by a single blank.
+ * -------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {
